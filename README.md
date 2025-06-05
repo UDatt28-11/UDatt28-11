@@ -4,7 +4,7 @@ I'm Đạt, a passionate IT student who enjoys learning and building cool things
 
 🔭 Currently studying at FPT Polytechnic
 
-🌱 Currently learning:
+🌱 Currently learning language programming :
 - React, Node.js, and MongoDB , Php, Laravel
 - Clean code practices and Git workflow
 
